@@ -3,6 +3,7 @@ The use case was -
 A person wants to open his house on Airbnb and is looking for the right location, timing, and number of bedrooms to make it successful.
 I started by importing the provided dataset, which included three tables, and applied an inner join between two of them. This operation allowed me to analyze how Airbnb rental prices varied throughout the year.
 Next, I created five sheets:
+
 The best locations to open an Airbnb rental service (Price by Zip Code, two sheets)
 Yearly revenue
 Average price per bedroom
